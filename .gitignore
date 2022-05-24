@@ -1,3 +1,6 @@
 /.vscode/
 /course/directory_on_my_computer
+/course/test-trainer
+/course/test_accelerate.py
+/course/test_lr_scheduler.py
 
